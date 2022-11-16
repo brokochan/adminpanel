@@ -25,7 +25,7 @@
                     </form>
                 </div>
                 <div class="col d-flex justify-content-end">
-                    <a href="/maskapaiadd" class="btn btn-primary mr-2"><i class="fa fa-plus"></i> Add Data</a>
+                    <a href="/invoiceadd" class="btn btn-primary mr-2"><i class="fa fa-plus"></i> Add Data</a>
                 </div>
             </div>
         </div>
