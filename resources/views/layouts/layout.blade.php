@@ -61,7 +61,7 @@
                 Features
             </div>
 
-            <li class="nav-item active" style="">
+            <li class="nav-item" style="">
                 <a class="nav-link" href="/maskapai">
                     <i class="fas fa-fw fa-plane"></i>
                     <span>Maskapai</span>
@@ -77,6 +77,12 @@
                 <a class="nav-link" href="/sewa">
                     <i class="fas fa-fw fa-car"></i>
                     <span>Sewa Mobil</span>
+                </a>
+            </li>
+            <li class="nav-item active" style="margin-top:-15px;">
+                <a class="nav-link" href="/invoice">
+                    <i class="fas fa-fw fa-file-invoice"></i>
+                    <span>Invoice</span>
                 </a>
             </li>
 
